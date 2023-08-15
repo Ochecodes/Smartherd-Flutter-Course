@@ -10,11 +10,11 @@ void main() {
         color: Colors.grey,
         child: Center(
              child: Text(
-                  "Hello Flutter", 
+                  "Awesome Flutter", 
                   textDirection: TextDirection.ltr, 
                   style: TextStyle(
                     color: Colors.black, 
-                    fontSize: 50.8, 
+                    fontSize: 40.0, 
                     fontWeight: 
                     FontWeight.bold,
                   ),
